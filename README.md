@@ -7,7 +7,7 @@
 <img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250">
 
 **Profile Visits**\
-![Visitor Count](https://profile-counter.glitch.me/nikhilverma360/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/0xnehasingh/count.svg)
 
 - 🔭 I’m currently working on **Web3 Social Identity Manager**
 
