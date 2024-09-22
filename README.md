@@ -9,9 +9,11 @@
 **Profile Visits**\
 ![Visitor Count](https://profile-counter.glitch.me/0xnehasingh/count.svg)
 
-- 🔭 I’m currently working on **Web3 Social Identity Manager**
-
-- 🌱 I’m currently learning **Blockchain, Web3.0**
+- 🔭 Currently working as a **Staff Blockchain Engineer** at a Layer 1 blockchain company.
+- 🛠️ Expertise in **Solidity**, **Golang**, and other EVM-compatible chains, as well as non-EVM ecosystems like Cosmos.
+- 🌱 Passionate about exploring advanced blockchain concepts such as **Zero Knowledge Proofs (ZKPs)**, **Layer 2 Scaling Solutions**, and **DeFi protocols**.
+- 🏆 I've won **5+ Ethereum hackathons**, including ETHGlobal, ETHIndia, and Polygon BUIDL IT, where I worked on innovative projects in the Web3 space.
+- 🎓 As an active member of the developer community, I mentor and support budding blockchain developers by sharing knowledge and conducting workshops.
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xnehasingh](https://github.com/0xnehasingh)
 
@@ -21,6 +23,27 @@
 \
 <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 
+## 🧑‍💻 What I'm Working On
+- **BeeBlast**: A Play-to-Earn Metaverse NFT platform where users collect and care for digital bees, earn $HONEY, and explore decentralized gameplay.
+- **Homing**: A decentralized real-world asset investment platform that utilizes Hedera Blockchain smart contracts and ERC1155 tokens for fractional ownership of real estate.
+- **VerifiedERC20**: A token contract integrated with a KYC registry to ensure compliance before executing transactions.
+- **KYC Smart Contracts**: Solutions to facilitate identity verification and investor compliance for blockchain-based asset management.
+
+## 🛠️ Skills & Tools
+### Blockchain
+- **Smart Contracts**: Solidity, Golang, Hyperledger Fabric
+- **EVM**: Ethereum, Polygon, BNB Chain
+- **Non-EVM**: Cosmos, Solana
+- **Layer 2**: zkRollups, Optimistic Rollups
+
+### Web3 Development
+- **Frameworks**: Hardhat, Truffle, Remix IDE
+- **Front-end**: Next.js, React, wagmi
+- **Testing**: Chai, Mocha, Solidity Coverage
+
+### Languages
+- **Primary**: Solidity, Golang, JavaScript
+- **Others**: TypeScript, Python, Rust
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Neha Singh#8430) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xnehasingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-singh-60b4451a9/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xnehasingh) 
