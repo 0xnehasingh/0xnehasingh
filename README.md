@@ -24,7 +24,6 @@
 <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 
 ## 🧑‍💻 What I'm Working On
-- **BeeBlast**: A Play-to-Earn Metaverse NFT platform where users collect and care for digital bees, earn $HONEY, and explore decentralized gameplay.
 - **Homing**: A decentralized real-world asset investment platform that utilizes Hedera Blockchain smart contracts and ERC1155 tokens for fractional ownership of real estate.
 - **VerifiedERC20**: A token contract integrated with a KYC registry to ensure compliance before executing transactions.
 - **KYC Smart Contracts**: Solutions to facilitate identity verification and investor compliance for blockchain-based asset management.
