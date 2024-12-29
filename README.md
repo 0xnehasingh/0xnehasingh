@@ -9,7 +9,7 @@
 **Profile Visits**\
 ![Visitor Count](https://profile-counter.glitch.me/0xnehasingh/count.svg)
 
-- 🔭 Currently working as a **Staff Blockchain Engineer** at a Layer 1 blockchain company.
+- 🔭 Currently working as a **Senior Blockchain Engineer**.
 - 🛠️ Expertise in **Solidity**, **Golang**, and other EVM-compatible chains, as well as non-EVM ecosystems like Cosmos.
 - 🌱 Passionate about exploring advanced blockchain concepts such as **Zero Knowledge Proofs (ZKPs)**, **Layer 2 Scaling Solutions**, and **DeFi protocols**.
 - 🏆 I've won **5+ Ethereum hackathons**, including ETHGlobal, ETHIndia, and Polygon BUIDL IT, where I worked on innovative projects in the Web3 space.
