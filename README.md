@@ -13,6 +13,8 @@ i write `solidity` & `cadence` smart contracts, ship full-stack `web3 dApps`, an
 focused on `agentic dApps`, `DeFi` and `smart accounts` · 23× web3 hackathon winner · India (IST) · remote
 
 
+<br clear="right" />
+
 ## 🌐 find me
 
 
