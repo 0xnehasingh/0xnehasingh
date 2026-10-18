@@ -2,53 +2,88 @@
 
 
 
-<h1 align="center">Welcome to <i>0xnehasingh</i>'s place</h1>
+# gm 👋, I'm [Neha](https://x.com/0xnehasingh) · full-stack blockchain developer
 
 <img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250">
 
-**Profile Visits**\
-![Visitor Count](https://profile-counter.glitch.me/0xnehasingh/count.svg)
 
-- 🔭 Currently working as a **Senior Blockchain Engineer**.
-- 🛠️ Expertise in **Solidity**, **Golang**, and other EVM-compatible chains, as well as non-EVM ecosystems like Cosmos.
-- 🌱 Passionate about exploring advanced blockchain concepts such as **Zero Knowledge Proofs (ZKPs)**, **Layer 2 Scaling Solutions**, and **DeFi protocols**.
-- 🏆 I've won **5+ Ethereum hackathons**, including ETHGlobal, ETHIndia, and Polygon BUIDL IT, where I worked on innovative projects in the Web3 space.
-- 🎓 As an active member of the developer community, I mentor and support budding blockchain developers by sharing knowledge and conducting workshops.
 
-- 👨‍💻 All of my projects are available at [https://github.com/0xnehasingh](https://github.com/0xnehasingh)
+i write `solidity` & `cadence` smart contracts, ship full-stack `web3 dApps`, and build `AI agents that act on-chain`
 
-- 💬 Ask me about **Blockchain, Web3.0**
+focused on `agentic dApps`, `DeFi` and `smart accounts` · 23× web3 hackathon winner · India (IST) · remote
 
-- ⚡ Fun fact : **The first programmer was the daughter of a mad poet.**
-\
-<img align="right" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical">
 
-## 🧑‍💻 What I'm Working On
-- **Homing**: A decentralized real-world asset investment platform that utilizes Hedera Blockchain smart contracts and ERC1155 tokens for fractional ownership of real estate.
-- **VerifiedERC20**: A token contract integrated with a KYC registry to ensure compliance before executing transactions.
-- **KYC Smart Contracts**: Solutions to facilitate identity verification and investor compliance for blockchain-based asset management.
+## 🌐 find me
 
-## 🛠️ Skills & Tools
-### Blockchain
-- **Smart Contracts**: Solidity, Golang, Hyperledger Fabric
-- **EVM**: Ethereum, Polygon, BNB Chain
-- **Non-EVM**: Cosmos, Solana
-- **Layer 2**: zkRollups, Optimistic Rollups
 
-### Web3 Development
-- **Frameworks**: Hardhat, Truffle, Remix IDE
-- **Front-end**: Next.js, React, wagmi
-- **Testing**: Chai, Mocha, Solidity Coverage
+[![X](https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=x&logoColor=ffffff&message=X&style=flat-square)](https://x.com/0xnehasingh)
+[![LinkedIn](https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=linkedin&logoColor=ffffff&message=LinkedIn&style=flat-square)](https://www.linkedin.com/in/nehasingh3000/)
+[![GitHub](https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=github&logoColor=ffffff&message=GitHub&style=flat-square)](https://github.com/0xnehasingh)
+[![Devfolio](https://img.shields.io/static/v1?color=0969da&label=%20&labelColor=5c5c5c&logo=devdotto&logoColor=ffffff&message=Devfolio&style=flat-square)](https://devfolio.co/projects/memex-0a93)
 
-### Languages
-- **Primary**: Solidity, Golang, JavaScript
-- **Others**: TypeScript, Python, Rust
+## 🛠️ web3 stack
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Neha Singh#8430) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xnehasingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-singh-60b4451a9/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xnehasingh) 
+**smart contracts**
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Solidity](https://img.shields.io/static/v1?color=363636&label=%20&labelColor=5c5c5c&logo=solidity&logoColor=ffffff&message=Solidity&style=flat-square)
+![Cadence](https://img.shields.io/static/v1?color=00ef8b&label=%20&labelColor=5c5c5c&logo=flow&logoColor=ffffff&message=Cadence&style=flat-square)
+![Hardhat](https://img.shields.io/static/v1?color=ffd200&label=%20&labelColor=5c5c5c&logo=hardhat&logoColor=000000&message=Hardhat&style=flat-square)
+![Safe](https://img.shields.io/static/v1?color=12ff80&label=%20&labelColor=5c5c5c&logo=safe&logoColor=000000&message=Safe&style=flat-square)
+
+**chains**
+
+![Base](https://img.shields.io/static/v1?color=0052ff&label=%20&labelColor=5c5c5c&logo=coinbase&logoColor=ffffff&message=Base&style=flat-square)
+![EVM](https://img.shields.io/static/v1?color=627eea&label=%20&labelColor=5c5c5c&logo=ethereum&logoColor=ffffff&message=EVM&style=flat-square)
+![Polygon](https://img.shields.io/static/v1?color=7b3fe4&label=%20&labelColor=5c5c5c&logo=polygon&logoColor=ffffff&message=Polygon&style=flat-square)
+![BNB Chain](https://img.shields.io/static/v1?color=f0b90b&label=%20&labelColor=5c5c5c&logo=binance&logoColor=000000&message=BNB%20Chain&style=flat-square)
+![Flow](https://img.shields.io/static/v1?color=00ef8b&label=%20&labelColor=5c5c5c&logo=flow&logoColor=000000&message=Flow&style=flat-square)
+![NEAR / Aurora](https://img.shields.io/static/v1?color=000000&label=%20&labelColor=5c5c5c&logo=near&logoColor=ffffff&message=NEAR%20%2F%20Aurora&style=flat-square)
+
+**AI agents**
+
+![Coinbase AgentKit](https://img.shields.io/static/v1?color=0052ff&label=%20&labelColor=5c5c5c&logo=coinbase&logoColor=ffffff&message=Coinbase%20AgentKit&style=flat-square)
+![LangChain / LangGraph](https://img.shields.io/static/v1?color=1c3c3c&label=%20&labelColor=5c5c5c&logo=langchain&logoColor=ffffff&message=LangChain%20%2F%20LangGraph&style=flat-square)
+![OpenAI](https://img.shields.io/static/v1?color=412991&label=%20&labelColor=5c5c5c&logo=openai&logoColor=ffffff&message=OpenAI&style=flat-square)
+![Anthropic](https://img.shields.io/static/v1?color=d97757&label=%20&labelColor=5c5c5c&logo=anthropic&logoColor=ffffff&message=Anthropic&style=flat-square)
+
+**dApp frontend**
+
+![TypeScript](https://img.shields.io/static/v1?color=3178c6&label=%20&labelColor=5c5c5c&logo=typescript&logoColor=ffffff&message=TypeScript&style=flat-square)
+![Next.js](https://img.shields.io/static/v1?color=000000&label=%20&labelColor=5c5c5c&logo=nextdotjs&logoColor=ffffff&message=Next.js&style=flat-square)
+![wagmi / viem](https://img.shields.io/static/v1?color=1c1c1c&label=%20&labelColor=5c5c5c&logo=ethereum&logoColor=ffffff&message=wagmi%20%2F%20viem&style=flat-square)
+![RainbowKit](https://img.shields.io/static/v1?color=8a2be2&label=%20&labelColor=5c5c5c&logo=rainbow&logoColor=ffffff&message=RainbowKit&style=flat-square)
+![Privy](https://img.shields.io/static/v1?color=6a3ff6&label=%20&labelColor=5c5c5c&logo=privy&logoColor=ffffff&message=Privy&style=flat-square)
+
+---
+
+## 🏆 top web3 hackathon wins
+
+| event | project | result |
+|---|---|---|
+| Safe Agentathon · Feb 2025 | [MemeX](https://devfolio.co/projects/memex-0a93) | 🥇 SEI · 🥈 Venice AI · 🥉 Zerebro ([proof](https://safe-agents.devfolio.co/projects?prizes=95fb1820290f4988b05d50fe88748bd8)) |
+| EDU Chain Semester 2 · Feb 2025 | [EduLend](https://github.com/0xnehasingh/EDULend_) | 5th, DeFi track ([proof](https://x.com/opencampus_xyz/status/1887943887471395209)) |
+| Encode Bitcoin Hackathon, Bangkok · Nov 2024 | GOAT Network bounty | 7th ([proof](https://x.com/encodeclub/status/1856310800195170699)) |
+| ETHIndia · Dec 2022 | [Meet3Club](https://devfolio.co/projects/meetclub-69a9) | 🥉 Huddle01 + ENS, NFTPort, Covalent pool prizes ([proof](https://x.com/huddle01com/status/1599717909437493248)) |
+| ETHGlobal HackFS · Jul 2022 | WhoIsThis | NFTPort + POAP pool prizes |
+
+*23 wins in total, at events run by ETHGlobal, ETHIndia, Devfolio, Encode Club, Open Campus and Safe.*
+
+---
+
+## ⛓️ web3 & agentic dApps i've built
+
+- [**memex**](https://github.com/0xnehasingh/MemeX1_) · `AI agents` `Safe` `NEAR/Aurora`: meme tokens become AI "Memegents" that chat, battle and post, using Safe smart accounts and Story · [video](https://www.loom.com/share/d5784e23fde74e24b60341ff9b111ddc)
+- [**neurafi**](https://github.com/0xnehasingh/NeuraFi) · `AgentKit` `Base`: chat-based AI crypto wallet on Base, built with Coinbase AgentKit, LangGraph and Privy
+- [**ai-chess-arena**](https://github.com/0xnehasingh/AI-Chess-Arena) · `AI agents` `ethers.js`: LLMs play live chess with AI commentary while users bet on the winner · [live](https://chat-gpt-vs-claude.vercel.app)
+- [**flowfit**](https://github.com/0xnehasingh/Flowfit) · `Cadence` `Flow VRF`: gasless fitness protocol on Flow with VRF challenges and sponsored transactions · [live](https://flowfit-frontend-tx79.vercel.app/)
+- [**agriguard**](https://github.com/0xnehasingh/AgriGuard) · `Solidity` `Chainlink` `Polygon`: parametric crop insurance that pays out automatically from WeatherXM data · [live](https://agri-guard-6b47.vercel.app/)
+- [**base-quest-hub**](https://github.com/0xnehasingh/Too-Quick) · `Solidity` `Base`: on-chain quests and points leaderboard on Base · [live](https://too-quick-9kpm.vercel.app/) · [contract](https://sepolia.basescan.org/address/0xA3060095F8E39e9aef5e8127115A57820993B4C0)
+
+---
+
+## 💼 currently
+
+**building agentic dApps and smart contracts at a web3 product studio** · open to smart contract, AI-agent and full-stack web3 roles · DMs open
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0xnehasingh&theme=discord&no-frame=false&no-bg=false&margin-w=4)
