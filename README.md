@@ -1,8 +1,9 @@
-![banner-of-metaverse-technology-concept-a-boy-head-facing-to-use-vr-virtual-reality-goggle-and-metaverse-icons-vector](https://user-images.githubusercontent.com/67492324/206671744-69aa3705-7b21-4b1b-839c-c3e619ae27b9.jpg)
+<img width="1891" height="483" alt="9ecff1ce60678f0d0b6fa524f1912e85d8aab6bcc4d116e36aa91fc1611038f1" src="https://github.com/user-attachments/assets/08674822-9478-4bd8-a233-d177bd0d4276" />
 
 
 
-# gm 👋, I'm [Neha](https://x.com/0xnehasingh) · full-stack blockchain developer
+
+# gm 👋, I'm [Neha](https://x.com/0xnehasingh) · 
 
 <img align="right" src="https://media1.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif?cid=ecf05e47s3jvq8hd695wi55o6q6ap6b2lc01af39bskelry3&rid=giphy.gif&ct=s" width="250" height="250">
 
