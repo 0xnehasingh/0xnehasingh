@@ -1,6 +1,6 @@
-<img width="1891" height="483" alt="9ecff1ce60678f0d0b6fa524f1912e85d8aab6bcc4d116e36aa91fc1611038f1" src="https://github.com/user-attachments/assets/08674822-9478-4bd8-a233-d177bd0d4276" />
 
 
+<img width="1891" height="483" alt="e04fafc6ec9d07dc89eb4e044f5c44b4ea5bef716f187a328cad69e6826a79bf" src="https://github.com/user-attachments/assets/644f894f-5df7-47a0-9023-bec5cd1d0127" />
 
 
 # gm 👋, I'm [Neha](https://x.com/0xnehasingh) · 
